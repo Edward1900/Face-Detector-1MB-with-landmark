@@ -19,16 +19,14 @@ Inference on image
 ##  Result Comparison
 src img
  
-![img1](https://github.com/Edward1900/Face-Detector-1MB-with-landmark/blob/main/samall_tensorflow_test/imgs/t1.jpg)
-
+<p align="center"><img src="imgs/t1.jpg"\></p>
 
 dst img
 
-![img1](https://github.com/Edward1900/Face-Detector-1MB-with-landmark/blob/main/samall_tensorflow_test/imgs/test_output_res.jpg)
+<p align="center"><img src="imgs/test_output_res.jpg"\></p>
 
 landmark test
-![img1](https://github.com/Edward1900/Face-Detector-1MB-with-landmark/blob/main/samall_tensorflow_test/imgs/L.jpg)
- 
+ <p align="center"><img src="imgs/L.jpg"\></p>
 ##  Reference
 - [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
 
